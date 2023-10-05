@@ -270,7 +270,7 @@
             this.Controls.Add(this.btn4);
             this.Controls.Add(this.btn8);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Calculadora";
             this.ResumeLayout(false);
             this.PerformLayout();
 
